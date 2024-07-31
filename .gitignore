@@ -1,0 +1,11 @@
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+
+#Arquivos de imagem
+*.png
+
+# Diretórios de dependências Python
+venv/
